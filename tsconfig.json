@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/dbConfig/dbConfig.ts"  ],
   "exclude": ["node_modules"]
 }
